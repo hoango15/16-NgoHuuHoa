@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\OPP\NgoHuuHoa\Chuong4Menu\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\OPP\NgoHuuHoa\Chuong4Menu\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+  Menu.cpp
+D:\OPP\NgoHuuHoa\Chuong4Menu\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP\NgoHuuHoa\Chuong4Menu\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+  Generating Code...
+  Chuong4Menu.vcxproj -> D:\OPP\NgoHuuHoa\x64\Debug\Chuong4Menu.exe
